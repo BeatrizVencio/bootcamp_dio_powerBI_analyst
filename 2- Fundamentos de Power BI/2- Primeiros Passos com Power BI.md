@@ -63,6 +63,6 @@ Essa aula continua a explorar o Power BI, aprofundando as vantagens de usá-lo p
 
 ### Materiais Complementares
 
-[Curso 4 - Primeiros passos com Poer BI.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/8e6c21f9-422b-4372-9e09-a443e7554e64/Curso_4_-_Primeiros_passos_com_Poer_BI.pdf)
+[Curso 4 - Primeiros passos com Poer BI.pdf](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/2-%20Fundamentos%20de%20Power%20BI/Materiais%20Complementares/Curso%204%20-%20Primeiros%20passos%20com%20Poer%20BI.pdf)
 
-[Microsoft-Power-BI-Storytelling.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/74215aad-4ed0-43d5-8384-606a2bf49de1/Microsoft-Power-BI-Storytelling.pdf)
+[Microsoft-Power-BI-Storytelling.pdf](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/2-%20Fundamentos%20de%20Power%20BI/Materiais%20Complementares/Microsoft-Power-BI-Storytelling.pdf)
