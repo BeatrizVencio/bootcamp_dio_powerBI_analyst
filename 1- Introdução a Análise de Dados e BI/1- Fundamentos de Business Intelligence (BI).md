@@ -227,6 +227,6 @@ O Big Data é um paradigma que impacta a BI, com volumes maiores de dados, varie
 
 ### Materiais Complementares
 
-[Apresentação da formação.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/6fda9948-c261-48d7-b22d-e6fea96366cb/Apresentao_da_formao.pdf)
+[Apresentação da formação.pdf](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/1-%20Introdução%20a%20Análise%20de%20Dados%20e%20BI/Materiais%20Complementares/Apresentação%20da%20formação.pdf)
 
-[Curso 1 - Fundamentos.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/9e3d9e50-68a9-4301-8920-b8634d4d6fa5/Curso_1_-_Fundamentos.pdf)
+[Curso 1 - Fundamentos.pdf](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/1-%20Introdução%20a%20Análise%20de%20Dados%20e%20BI/Materiais%20Complementares/Curso%201%20-%20Fundamentos.pdf)
