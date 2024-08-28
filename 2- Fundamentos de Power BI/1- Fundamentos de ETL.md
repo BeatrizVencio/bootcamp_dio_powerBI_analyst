@@ -203,4 +203,4 @@ Em última análise, a escolha entre ETL e ELT  depende dos seguintes fatores:
 
 ### Materiais Complementares
 
-[Curso 3 - Fundamentos de Processamento em Dados.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/ab0198f0-e934-47a4-b8fd-6f5fab29c070/Curso_3_-_Fundamentos_de_Processamento_em_Dados.pdf)
+[Curso 3 - Fundamentos de Processamento em Dados.pdf](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/2-%20Fundamentos%20de%20Power%20BI/Materiais%20Complementares/Curso%203%20-%20Fundamentos%20de%20Processamento%20em%20Dados.pdf)
