@@ -668,6 +668,6 @@ SELECT i.InvoiceId, il.InvoiceLineId  FROM Invoice i
 
 ### Materiais Complementares
 
-[Curso 2 - Introdução a Análise de Dados com SQL.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/650e4c5f-8594-410c-ab06-3827643c7cd0/Curso_2_-_Introduo_a_Anlise_de_Dados_com_SQL.pdf)
+[Curso 2 - Introdução a Análise de Dados com SQL.pdf](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/1-%20Introdução%20a%20Análise%20de%20Dados%20e%20BI/Materiais%20Complementares/Curso%202%20-%20Introdução%20a%20Análise%20de%20Dados%20com%20SQL.pdf)
 
 https://github.com/julianazanelatto/power_bi_analyst
