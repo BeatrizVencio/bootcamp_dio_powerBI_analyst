@@ -144,7 +144,7 @@ A  aula  demonstra  como  utilizar  as  ferramentas  do  Power BI  para  adicion
 
 ### Materiais Complementares
 
-[Storytelling.pdf](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/6-%20Data%20Analytics%20%26%20Storytelling%20com%20Power%20BI/desafio/materiais%20complementares/Storytelling.pdf)
+[DataAnalytics.pptx](https://github.com/BeatrizVencio/bootcamp_dio_powerBI_analyst/blob/main/6-%20Data%20Analytics%20%26%20Storytelling%20com%20Power%20BI/desafio/materiais%20complementares/Data%20%20Analytics.pptx)
 
 https://powerbi.microsoft.com/en-us/data-storytelling/
 
