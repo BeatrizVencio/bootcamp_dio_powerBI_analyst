@@ -118,10 +118,6 @@ A  aula  nos  lembra  da  importância  de  seguir  algumas  considerações  fi
 
 ### Materiais Complementares
 
-[Gerenciando Workspaces.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/abf31c02-a615-4432-8ed1-f6294527b170/Gerenciando_Workspaces.pdf)
-
-[Gerenciando datasets.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/b369af9b-7cb9-4a92-a3e6-9bd012b6926e/Gerenciando_datasets.pdf)
-
 **Workspaces:**
 
 https://learn.microsoft.com/pt-br/power-bi/collaborate-share/service-new-workspaces
